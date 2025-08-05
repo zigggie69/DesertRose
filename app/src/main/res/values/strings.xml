@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Desert Rose</string>
+    <string name="Home">Home</string>
+    <string name="Mission">Mission</string>
+    <string name="Team">Team</string>
+    <string name="Rosaisela">Rosaisela</string>
+    <string name="Jewelry">Jewelry</string>
+    <string name="Reiki">Reiki</string>
+    <string name="Therapy">Therapy</string>
+    <string name="Store">Store</string>
+    <string name="your_one_stop_for_integrative_health_herbal_apothecary_and_teas">YOUR ONE STOP FOR INTEGRATIVE HEALTH, HERBAL APOTHECARY AND TEAS</string>
+    <string name="hours_n_wednesday_10_00am_6_00pm_n_thursday_10_00am_6_00pm_n_friday_10_00am_6_00pm_n_saturday_11_00am_4_00pm">HOURS \n Wednesday: 10:00AM-6:00PM \n Thursday: 10:00AM-6:00PM \n Friday: 10:00AM-6:00PM \n Saturday: 11:00AM-4:00PM</string>
+    <string name="https_www_desertroseessentialherbs_com">https://www.desertroseessentialherbs.com</string>
+    <string name="_999_e_fry_blvd_102sierra_vista_az_85635_united_states">999 E Fry Blvd #102Sierra Vista, AZ 85635, United States</string>
+    <string name="textview">TextView</string>
+</resources>
